@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=estellatr&label=Profile%20views&color=0e75b6&style=flat" alt="estellatr" /> </p>
 
 <h1 align="center">Hi 👋, I'm Estella!</h1>
 <h3 align="center">A passionate frontend developer, currently based in Denmark.</h3>

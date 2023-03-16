@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **I love video-games - reach out to me on LinkedIn with some good recommendations! -**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/estellatr/</h3>
 <p align="left">
 </p>
 

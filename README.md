@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Estella!</h1>
 <h3 align="center">A passionate frontend developer, currently based in Denmark.</h3>
 
-- 🔭 I’m currently working on several projects and web applications using **HTML, CSS, JavaScript, React, Redux and TypeScript.**
+- 🌱 I’m currently working on several projects and web applications using **HTML, CSS, JavaScript, React, Redux and TypeScript**, including learning how to create responsive story-driven web games.
 
-- 🌱 I’m currently learning how to create responsive story-driven web games using React, Redux and TypeScript.
+- 🔭 I'm currently working on creating an updated, more responsive and overall better version of one of my earliest projects: **https://github.com/Estellatr/FrogGame**. This was a story-driven web game, created in a day, about finding a frog...
 
 - 😄 Pronouns: She/Her
 
